@@ -1,17 +1,22 @@
-package com.upgrad.ecommerce.domain.v2;
+/** Package to which this class belongs to **/
+package com.upgrad.ecommerce.domain.v1;
 
+/** Image class declaration **/
 public class Image {
 
+  /** Instance variables **/
   private String imgLoc;
   private String imgDesc;
   private int dimensionX;
   private int dimensionY;
   private boolean defaultImg;
 
+  /** Getter method for image location **/
   public String getImgLoc() {
     return imgLoc;
   }
 
+  /** Setter method for image location **/
   public void setImgLoc(String imgLoc) {
     this.imgLoc = imgLoc;
   }
