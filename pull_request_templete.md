@@ -6,6 +6,7 @@ This templet include details of parameter present in pull request and those need
 
 Fixes # (issue)
 
+
 ## Type of changes
 
 Please delete options that ae not relevent
